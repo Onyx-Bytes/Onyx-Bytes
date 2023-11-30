@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Onyx-Bytes
+- 👀 I’m interested in learning Front end development.
+- 🌱 I’m currently learning JavaScript and moving into React
+- 📫 Reach me on GitHub.
